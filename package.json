@@ -24,11 +24,11 @@
     "gulp-plumber": "^0.6.4",
     "gulp-r": "^1.1.2",
     "gulp-rename": "^1.2.0",
-    "gulp-sass": "^2.0.4",
+    "gulp-sass": "^5.0.0",
     "install": "^0.1.7",
     "jsonwebtoken": "~0.1.0",
     "morgan": "^1.2.3",
-    "npm": "~1.4.28",
+    "npm": "~7.0.0",
     "path": "^0.4.9",
     "request": "^2.64.0",
     "requirejs": "^2.1.15"
